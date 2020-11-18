@@ -1,10 +1,11 @@
-import java.util.Scanner;
-
 package menuakGit;
 
-public class menuak {
+import java.util.Scanner;
 
+public class menuak {
+	
 	public static void main(String[] args) {
+		
 		Scanner sc=new Scanner(System.in);
 		
 		int i;
@@ -14,9 +15,15 @@ public class menuak {
 				+ "Opcion 3\r"
 				+ "Opcion 4");
 		
-		switch(i) {
+		i=Integer.parseInt(sc.nextLine());
 		
-		}
+		/*opcion de suma*/
+		/*opcion de resta*/
+		/*opcion de multiplicacion*/
+		/*opcion de division*/
+		ссс
+		/*Calcular factorial*/
+		dsafsdfs
 	}
 
 }
