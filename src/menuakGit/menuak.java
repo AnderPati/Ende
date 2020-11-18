@@ -17,6 +17,9 @@ public class menuak {
 		
 		i=Integer.parseInt(sc.nextLine());
 		
+		/*AHORA SON METODOS*/
+		ASDADSADSASD
+		
 		/*opcion de suma*/
 		/*opcion de resta*/
 		/*opcion de multiplicacion*/
